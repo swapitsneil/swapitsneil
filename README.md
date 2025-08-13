@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **swapnilnicolson.201@gmail.com**
 
-- ⚡ Fun fact **Geeky, Funny, Coffee-fueled debugger**
+- ⚡ Fun fact -  **Geeky, Funny, Coffee-fueled debugger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
