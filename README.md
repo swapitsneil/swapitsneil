@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapitsneil" alt="swapitsneil" /></a> </p>
 
-- 🌱 I’m currently learning **React and NextJS**
+- 🌱 I’m currently learning **Deep Learning - autoencoder UNet GAN**
 
 - 📫 How to reach me **swapnilnicolson.201@gmail.com**
 
