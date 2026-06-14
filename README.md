@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
-<h3 align="center">Data Analytics Enthusiast | Frontend Developer | Aspiring Machine Learning Explorer🚀</h3>
+<h3 align="center">Data Analytics Enthusiast | Aspiring Machine Learning Explorer🚀 | Moving Towards GENAI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapitsneil&label=Profile%20views&color=0e75b6&style=flat" alt="swapitsneil" /> </p>
 
